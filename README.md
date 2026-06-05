@@ -15,7 +15,7 @@
 
 ## About
 
-8+ years across data engineering and product management in US and India health-tech. I started as a Data Interface Engineer writing ETL pipelines and HL7 parsers — then crossed over to product, bringing the technical depth with me.
+9+ years across data engineering and product management in US and India health-tech. I started as a Data Interface Engineer writing ETL pipelines and HL7 parsers — then crossed over to product, bringing the technical depth with me.
 
 Today I own roadmaps, translate government policy into PRDs, and build AI-powered features for healthcare platforms. My edge: I can hold a sprint planning session in the morning and write a SQL query in the afternoon — **no translation layer needed between me and engineering**.
 
