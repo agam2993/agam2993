@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/agamgarg2993">LinkedIn</a> ·
   <a href="mailto:garg.agam0@gmail.com">garg.agam0@gmail.com</a> ·
-  📍 Bengaluru, India · Open to contract / fractional roles
+  📍 Bengaluru, India · Open to work
 </p>
 
 ---
